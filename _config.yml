@@ -1,0 +1,28 @@
+name: Panawave
+favicon: null
+layout_spectrum: 0.4059095911215991
+typography_spectrum: 0.09637103858403862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8858135628979653
+  lightness: 0.30915492703206837
+  saturation: 0.21823594742454588
+  rhythmicContrast: 0.8249460032675415
+purpose: []
