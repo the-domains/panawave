@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Panawave]]></title>
         <description><![CDATA[Panawave]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.panawave.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 05:34:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 05:49:49 GMT</lastBuildDate>
+        <atom:link href="http://www.panawave.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb66e8b-8a13-432e-b151-029f0f609d81.jpg">]]></description>
+            <link>http://www.panawave.com/ef817fbe-6441-443b-87b6-2cf8cd7877f4/index.html</link>
+            <guid isPermaLink="false">ef817fbe-6441-443b-87b6-2cf8cd7877f4</guid>
+            <pubDate>Wed, 03 Feb 2016 05:45:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Panawave</p>]]></description>
-            <link>undefinedf6757b73-eb75-414a-9f3e-2484bded1783/index.html</link>
+            <link>http://www.panawave.com/f6757b73-eb75-414a-9f3e-2484bded1783/index.html</link>
             <guid isPermaLink="false">f6757b73-eb75-414a-9f3e-2484bded1783</guid>
             <pubDate>Wed, 03 Feb 2016 05:34:16 GMT</pubDate>
         </item>
